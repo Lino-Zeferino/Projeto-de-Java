@@ -1,1 +1,2 @@
-# Projeto-de-Java
+#Desenvolvimento de Sistema de Gestão de Biblioteca (Java)
+É um sistema que permite gerenciar todos os fluxos existente dentro de uma biblioteca. Os conceitos mais relevantes que se foi aplicado são: POO (classes e objetos),Modularização em pacotes, encapsulamento, relacionamento entre as classes (herança e composição), Polimorfismo (classe: abstratas, Finais, Interface), tratamento de Excepções e Serialização. 
